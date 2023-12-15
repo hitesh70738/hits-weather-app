@@ -787,17 +787,3 @@
   .display-block {
     display: bloc...
   }
-  .container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    border-style: dotted;
-    
-  }
-  .aside {
-    grid-template-columns: 200px;
-    border-style: line;
-  }
-  .two {
-    grid-template-rows: 1fr 1fr;
-    border-style: dashed;
-  }
